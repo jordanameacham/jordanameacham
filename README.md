@@ -15,6 +15,16 @@ Feel free to check out my projects, and let’s connect if you're interested in 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-meacham/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jordanameach@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect.)
 
 ## 💻 Tech Stack
+
+  <details open>
+  <summary>Programming Languages</summary>
+  
+  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=Python&logoColor=ffdd54) 
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
+  </details>
+  
   <details open>
   <summary>Cloud Platforms</summary>
   
@@ -36,15 +46,6 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   ![ApacheCassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
   ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white)
   ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8F62FF?style=flat&logo=amazon-redshift&logoColor=white)
-  </details>
-
-  <details open>
-  <summary>Programming Languages</summary>
-  
-  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=Python&logoColor=ffdd54) 
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
   </details>
   
   <details open>
