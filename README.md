@@ -5,7 +5,7 @@
 - 📫 How to reach me: **jordanameach@gmail.com**
 
 ## 💫 About Me:
-Hi, I’m Jordan A. Meacham (JAM)! I’m a data-driven strategist and MSBA candidate at Emory University, passionate about transforming complex data into actionable insights. My background in business analytics, finance, and data science fuels my ability to solve real-world problems at the intersection of data and decision-making.
+Hi, I’m Jordan A. Meacham (JAM)! I’m a data-driven strategist and Master of Science in Business Analytics (MSBA) candidate at Emory University, passionate about transforming complex data into actionable insights. My background in business analytics, finance, and data science fuels my ability to solve real-world problems at the intersection of data and decision-making.
 
 I love tackling challenges that require both analytical thinking and creativity—whether it’s designing backend database systems, building machine learning models, or uncovering trends in marketing and consumer behavior. I thrive on learning new tools, optimizing processes, and finding strategic ways to make data work smarter.
 
