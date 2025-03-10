@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-- 🌱 I’m currently learning: **Network Analytics/Graph Theory**
+- 🌱 I’m currently learning: **Causal Inference Analysis Techniques (Observational Studies/Randomized Controlled Trials)**
 - 💬 Ask me about: **Data Science/Analytics**
 - 📫 How to reach me: **jordanameach@gmail.com**
 
